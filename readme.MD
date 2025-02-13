@@ -13,5 +13,5 @@ This is a simple **Flask API** that generates motivational quotes using the **Ol
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/pipthablack/motivational-quotes-api.git
+git https://github.com/pipthablack/motivateeme-ai-with-ollama.git
 cd motivational-quotes-api
